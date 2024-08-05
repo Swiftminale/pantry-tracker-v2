@@ -47,7 +47,7 @@ const HomePage = () => {
             color: 'white' // Ensure text color contrasts with Paper background
           }}
         >
-          Welcome to Your Pantry Tracker
+          Welcome to ማጀት Tracker
         </Typography>
       </Paper>
       <PantryList />
